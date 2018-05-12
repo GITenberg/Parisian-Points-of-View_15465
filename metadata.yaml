@@ -1,0 +1,49 @@
+_repo: Parisian-Points-of-View_15465
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, James Brander
+    - Penn, Arthur
+    - Matthews, J. Brander (James Brander)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+  translator:
+    agent_name: Matthews, Edith Virginia Brander
+    alias: Matthews, Edith V. B. (Edith Virginia Brander)
+    gutenberg_agent_id: '6079'
+    url: http://www.gutenberg.org/2009/agents/6079
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halévy, Ludovic
+    aliases:
+    - Servieres, Jules
+    - Halévy, L. (Ludovic)
+    - Halevy, Ludovic
+    birthdate: 1834
+    deathdate: 1908
+    gutenberg_agent_id: '1344'
+    url: http://www.gutenberg.org/2009/agents/1344
+    wikipedia: http://en.wikipedia.org/wiki/Ludovic_Halévy
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2005-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+title: Parisian Points of View
+url: http://www.gutenberg.org/ebooks/15465
